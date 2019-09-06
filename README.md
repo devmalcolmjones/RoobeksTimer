@@ -3,7 +3,7 @@ Easy to use timer and tool for Rubik's Cube solves.
 
 Enjoy!
 
-URL: https://malcolmrjones.github.io/RoobeksTimer/
+URL: https://malcolmrjones.github.io/RoobeksTimer/index.html
 
 
 [![Roobeks Timer](http://img.youtube.com/vi/dcN98qlXSmk/0.jpg)](https://youtu.be/dcN98qlXSmk "Roobeks Timer")
